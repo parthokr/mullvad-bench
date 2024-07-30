@@ -1,4 +1,4 @@
-### Download the executable from release
+### Download the executable from [releases](https://github.com/parthokr/mullvad-bench/releases).
 
 ### Usage
 * Search across all servers
