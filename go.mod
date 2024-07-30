@@ -1,4 +1,4 @@
-module mullvbench
+module mullvad-bench
 
 go 1.22
 
